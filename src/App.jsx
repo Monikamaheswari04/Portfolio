@@ -73,7 +73,7 @@ export default function Portfolio() {
       desc:
         "A Django-based Campus Drive Management System that manages company drives, student registrations, and resume uploads with full admin control.",
       github: "https://github.com/Monikamaheswari04/Campus-Drive-Management",
-      live: "https://campus-management-osuz.onrender.com",
+      
     },
     {
       title: "Scientific Calculator",
